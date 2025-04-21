@@ -11,7 +11,7 @@ I have **3.4 years of experience** in IT, specializing in **DevOps, Cloud, and L
 - **Cloud Platforms:** AWS, Azure  
 - **Linux Administration:** RHEL, Ubuntu  
 - **Databases:** Oracle PL/SQL  
-- **Monitoring & Logging:** Grafana, Prometheus, ELK Stack  
+- **Monitoring & Logging:** Grafana, Prometheus 
 - **Networking & Security:** Nginx, Apache, Load Balancing  
 
 ## 🎯 **Aspiring Roles**  
