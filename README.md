@@ -21,9 +21,11 @@ I'm actively seeking roles in:
 ✅ **AWS/Azure Cloud Engineer**  
 
 ## 📈 **GitHub Projects & Contributions**  
-💡 Passionate about open-source, automation, and cloud-native technologies! Check out my projects and repositories where I share my learnings and solutions.  
+💡 Passionate about open-source, automation, and cloud-native technologies! Check out my projects and repositories where I share my learnings and solutions.
+- [**DevOps Capstone Project**](https://github.com/shivamsonari376/Devops_Capstone_4)
 - [**Deploying and Scaling Web Application**](https://github.com/YogeshAtigre/Deploying_and_Scaling_Web_Application)
 - [**Container Orchestration**](https://github.com/YogeshAtigre/Graded_Assignment_on_Container_Orchestration)
+- [**Terraform (IAC Resource Creation)**](https://github.com/YogeshAtigre/EC2-Nginx-Deployment-with-Terraform)
 - [**Jenkins Pipeline**](https://github.com/YogeshAtigre/Jenkins_CI_CD_Pipeline)
 
 ## 📫 **Let's Connect!**  
