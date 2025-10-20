@@ -7,11 +7,11 @@
 I have **3.4 years of experience** in IT, specializing in **DevOps, Cloud, and Linux Administration**. My passion lies in automating infrastructure, optimizing deployments, and ensuring seamless application performance.  
 
 ## 🌟 **Skills & Expertise**  
-- **DevOps & CI/CD:** Jenkins, Docker, Kubernetes, Terraform, Ansible  
-- **Cloud Platforms:** AWS, Azure  
+- **DevOps & CI/CD:** Jenkins, Docker, Kubernetes, Terraform, Ansible, Red Hat OpenShift
+- **Cloud Platforms:** AWS, Azure, Nutanix Cloud Clusters  
 - **Linux Administration:** RHEL, Ubuntu  
 - **Databases:** Oracle PL/SQL  
-- **Monitoring & Logging:** Grafana, Prometheus 
+- **Monitoring & Logging:** Grafana, Prometheus, DataDog
 - **Networking & Security:** Nginx, Apache, Load Balancing  
 
 ## 🎯 **Aspiring Roles**  
