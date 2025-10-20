@@ -4,7 +4,7 @@
 
 🚀 **System Engineer | DevOps Enthusiast | Cloud & Automation Specialist**  
 
-I have **3.4 years of experience** in IT, specializing in **DevOps, Cloud, and Linux Administration**. My passion lies in automating infrastructure, optimizing deployments, and ensuring seamless application performance.  
+I have **3.10 years of experience** in IT, specializing in **DevOps, Cloud, and Linux Administration**. My passion lies in automating infrastructure, optimizing deployments, and ensuring seamless application performance.  
 
 ## 🌟 **Skills & Expertise**  
 - **DevOps & CI/CD:** Jenkins, Docker, Kubernetes, Terraform, Ansible, Red Hat OpenShift
