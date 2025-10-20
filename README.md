@@ -8,6 +8,7 @@ I have **3.10 years of experience** in IT, specializing in **DevOps, Cloud, and 
 
 ## 🌟 **Skills & Expertise**  
 - **DevOps & CI/CD:** Jenkins, Docker, Kubernetes, Terraform, Ansible, Red Hat OpenShift
+- **GitOps:** ArgoCD, GitHub Actions
 - **Cloud Platforms:** AWS, Azure, Nutanix Cloud Clusters  
 - **Linux Administration:** RHEL, Ubuntu  
 - **Databases:** Oracle PL/SQL  
